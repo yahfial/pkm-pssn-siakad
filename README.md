@@ -1,7 +1,7 @@
 ﻿# Simulasi Phishing SIAKAD PKM PSSN
 
 Simulasi halaman login SIAKAD PPI Curug untuk edukasi keamanan siber.
-Bagian dari Program Kreativitas Mahasiswa â€” Pengabdian kepada Masyarakat (PKM-PM/PKM PSSN).
+Bagian dari Program Kreativitas Mahasiswa Pengabdian kepada Masyarakat (PKM-PM/PKM PSSN).
 
 ## File
 
