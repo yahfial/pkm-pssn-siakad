@@ -1,4 +1,4 @@
-﻿# Simulasi Phishing SIAKAD â€” PKM PSSN
+﻿# Simulasi Phishing SIAKAD PKM PSSN
 
 Simulasi halaman login SIAKAD PPI Curug untuk edukasi keamanan siber.
 Bagian dari Program Kreativitas Mahasiswa â€” Pengabdian kepada Masyarakat (PKM-PM/PKM PSSN).
@@ -16,13 +16,9 @@ Bagian dari Program Kreativitas Mahasiswa â€” Pengabdian kepada Masyarakat 
 
 ## Cara Pakai
 
-`ash
+`Bash
 cd <folder-ini>
 php -S 0.0.0.0:8080
 `
 
 Buka `http://localhost:8080` di browser.
-
-## Catatan
-
-> Hanya untuk tujuan edukasi. Tidak untuk aktivitas ilegal.
